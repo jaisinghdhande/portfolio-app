@@ -1,10 +1,12 @@
 import "./App.css";
-import Navbar from "./components/navbar";
+import Hero from "./components/Hero/Hero.jsx";
+import Navbar from "./components/Navbar/NavBar.jsx";
 
 function App() {
   return (
     <>
-      <Navbar></Navbar>
+      <Navbar />
+      <Hero />
     </>
   );
 }
