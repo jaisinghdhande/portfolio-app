@@ -5,8 +5,9 @@
   padding: 0;
 }
 
-body{
+body {
   background: #161513;
   color: white;
   height: 100vh;
+  font-family: "Rubik", serif;
 }

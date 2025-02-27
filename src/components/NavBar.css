@@ -14,7 +14,14 @@
 }
 
 .nav-connect {
-  padding: 20px 40px;
+  padding: 15px 30px;
   border-radius: 40px;
-  background-image: linear-gradient(to right,red,yellow);
+  background-image: linear-gradient(to right,#DA7C25,#8932E1);
+  cursor:pointer;
+  font-size:18px;
+  transition: 0.5s;
+}
+
+.nav-connect:hover{
+  transform: scale(1.05);
 }
